@@ -1,7 +1,7 @@
 {
   "name": "travis_iojs_native",
   "dependencies": {
-    "zmq": "2.10.x"
+    "oniguruma": "4.0.x"
   },
   "scripts": {
     "test": "echo 1"
