@@ -1,6 +1,6 @@
 {
   "name": "travis_iojs_native",
-  "dependencies": {
+  "optionalDependencies": {
     "oniguruma": "4.0.x"
   },
   "scripts": {
