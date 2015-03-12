@@ -1,6 +1,7 @@
 {
   "name": "travis_iojs_native",
   "optionalDependencies": {
+    "amqplib": "0.3.1",
     "oniguruma": "4.0.x"
   },
   "scripts": {
